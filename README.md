@@ -1,2 +1,3 @@
 # GrainDeSel
-Redesign
+
+https://graindesel.netlify.app/
